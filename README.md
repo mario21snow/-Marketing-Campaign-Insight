@@ -1,5 +1,7 @@
 # Analyzing Marketing Campaign Insight Data with Power BI
 
+![16](https://github.com/mario21snow/-Marketing-Campaign-Insight/assets/102954942/f9274687-6008-494c-82c7-ac2680c18837)
+
 ## Introduction
 
 Welcome to the world of analyzing marketing campaign insight data using Power BI. In this guide, I'll take you through the process of harnessing the power of data to make informed marketing decisions. Imagine we're sitting down with a group of colleagues or clients, and I want to walk you through the steps of using data to drive our marketing strategies.
